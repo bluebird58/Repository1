@@ -1,2 +1,2 @@
-This Saturday we are learning about Git and GITHub
+This day  we are learning about Git and GITHub
 editing the new file
