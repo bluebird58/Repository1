@@ -1,3 +1,4 @@
 This day  we are learning about Git and GITHub
 editing the new file
 Moving file to Github
+having fun learning Git
